@@ -8,9 +8,9 @@ Below is the link and Screen Shots of Game.
 https://scratch.mit.edu/projects/575222983?authuser=0
 <br>
 # Screenshots
-<br>
-![Screenshot 2024-02-04 192709](https://github.com/SidrahMalik/Scratch-Projects/assets/158201665/1ef0c701-b74a-4586-bbe1-ba56eb3436b8)
-<br>
-![Screenshot 2024-02-04 192915](https://github.com/SidrahMalik/Scratch-Projects/assets/158201665/d12b4b82-dda1-4f48-a232-1b91e06fff5a)
+
+![Screenshot 2024-02-04 192709](https://github.com/SidrahMalik/Scratch-Projects/assets/158201665/1e1ff8e6-fdf8-4ff7-b42b-0231dffd54e6)
 
 
+
+![Screenshot 2024-02-04 192915](https://github.com/SidrahMalik/Scratch-Projects/assets/158201665/170bf969-bdf2-4bc7-8964-5caf24ea58c7)
