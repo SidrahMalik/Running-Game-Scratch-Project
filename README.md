@@ -1,5 +1,5 @@
-# Scratch-Projects
-Projects of First Semester on Scratch in My Programming Fundamentals Class
+# Scratch-Project
+Running Game Scratch Project of First Semester on Scratch in My Programming Fundamentals Class
 <br>
 # Runner Game In Scratch
 Below is the link and Screen Shots of Game.
